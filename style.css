@@ -1,0 +1,32 @@
+
+
+
+*{
+    margin: 0px;
+    padding:0px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 90px 0px; text-align: center; background-color: lemonchiffon;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+   
+   
+    
+}
+nav ul li{
+    margin-right:30px;
+    color: #3A3A3A;
+font-size: 1rem;
+font-weight: 600;
+}
+.name{color: #3A3A3A;
+font-size: 1.5rem;
+font-weight: 700;}
